@@ -1,0 +1,16 @@
+name: repo-T2M
+id: ari:cloud:compass:06b1f601-7439-4e2a-afac-fed0c1d5a3dc:component/20fdc381-286b-4e23-8a2a-e628d96bb4e4/aedcdf87-8960-4337-bd1c-bf23c28fb664
+description: https://ais-dev-7v2btwgkurseuseceynkmc-430863489427.europe-west2.run.app
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/TA2MA-Dev/repo-T2M
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
